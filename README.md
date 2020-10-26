@@ -14,5 +14,5 @@ DOI={10.6084/m9.figshare.13140458.v1},\
 publisher={figshare},\
 author={Refat,  Abu Rumman and Barman, Paresh Chandra},\
 year={2020},\
-month={Oct}\ 
+month={Oct} 
 } 
