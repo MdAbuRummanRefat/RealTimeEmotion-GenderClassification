@@ -4,4 +4,4 @@ We implement a general Convolutional Neural Network (CNN) for designing for real
 * IMDB gender classification test accuracy: 95%.
 * fer2013 emotion classification test accuracy: 66%.
 
-For more information please consult the [publication](https://github.com/oarriaga/face_classification/blob/master/report.pdf)
+For more information please consult the [publication](https://github.com/MdAbuRummanRefat/RealTimeEmotion-GenderClassification/blob/main/Thesis%20Paper.pdf)
